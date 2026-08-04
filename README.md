@@ -25,7 +25,6 @@ O foco principal da aplicação esteve no aprendizado prático de:
 ## 🖥️ Demonstração do Projeto
 
 ![Preview da Interface](./public/tela.png)
-*Substitua o caminho acima (`./assets/preview.png`) pela imagem da sua captura de tela salva dentro do repositório.*
 
 ---
 
